@@ -1,5 +1,4 @@
-# Z0520 — Icosians Jordan Algebras
-
+# Icosians TKK-Construction
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![stdlib only](https://img.shields.io/badge/dependencies-stdlib%20only-success)](https://docs.python.org/3.11/library/)
