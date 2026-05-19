@@ -1,0 +1,9 @@
+{
+  "certificate": "jordan_doubled_closure",
+  "conclusion": "Of the 729 ordered basis pairs, the doubled product {X, Y} = XY + YX has 0 integrality failures.",
+  "expected_failures": 0,
+  "observed_failures": 0,
+  "passed": true,
+  "reference": "Article_004 Theorem 8.2",
+  "version": "v1"
+}

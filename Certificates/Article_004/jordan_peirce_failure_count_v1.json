@@ -1,0 +1,21 @@
+{
+  "certificate": "jordan_peirce_failure_count",
+  "conclusion": "Of the 27x27 = 729 ordered basis pairs of J_3(G_0), the ordinary Albert product X o Y = (XY + YX)/2 has 540 integrality failures, partitioned as 96 + 60 + 384 (Peirce-incident D-O, same-slot O-O, different-slot O-O).",
+  "expected": {
+    "D_D": 0,
+    "D_O_or_O_D": 96,
+    "O_O_diff": 384,
+    "O_O_same": 60,
+    "total": 540
+  },
+  "observed": {
+    "D_D": 0,
+    "D_O_or_O_D": 96,
+    "O_O_diff": 384,
+    "O_O_same": 60,
+    "total": 540
+  },
+  "passed": true,
+  "reference": "Article_004 Proposition 7.1",
+  "version": "v1"
+}

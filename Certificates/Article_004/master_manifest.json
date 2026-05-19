@@ -1,0 +1,39 @@
+{
+  "all_passed": true,
+  "certificate_dir": "3. Certificates/Article_004",
+  "certificates": [
+    {
+      "certificate": "g0_gram_half_integer",
+      "modified_utc": "2026-05-19T16:38:10Z",
+      "name": "g0_gram_half_integer_v1.json",
+      "passed": true,
+      "reference": "Article_004 Lemma 4.4",
+      "sha256": "7ec7768fe7c5f4b5cb3787a8dc5f770e4a96571f7e8abdea7c247d84a8ee61ad",
+      "size_bytes": 351
+    },
+    {
+      "certificate": "jordan_doubled_closure",
+      "modified_utc": "2026-05-19T16:39:10Z",
+      "name": "jordan_doubled_closure_v1.json",
+      "passed": true,
+      "reference": "Article_004 Theorem 8.2",
+      "sha256": "12e0f449565cf88cec1ee9e7e7a2d4cb2f170d709688930d9f1bce8b4fa10b5b",
+      "size_bytes": 300
+    },
+    {
+      "certificate": "jordan_peirce_failure_count",
+      "modified_utc": "2026-05-19T16:38:38Z",
+      "name": "jordan_peirce_failure_count_v1.json",
+      "passed": true,
+      "reference": "Article_004 Proposition 7.1",
+      "sha256": "46e8e95d2cb5eeae778aa9b6de4a59fb012fff57b3bb65d93f028b16938ed60b",
+      "size_bytes": 619
+    }
+  ],
+  "manifest": "master_manifest",
+  "platform": "Windows-10-10.0.26200-SP0",
+  "python": "3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]",
+  "timestamp_utc": "2026-05-19T16:41:39Z",
+  "total_certificates": 3,
+  "version": "v1"
+}

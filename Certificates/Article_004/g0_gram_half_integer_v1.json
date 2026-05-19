@@ -1,0 +1,9 @@
+{
+  "certificate": "g0_gram_half_integer",
+  "conclusion": "On the ordered basis (1,i,h,g,ell,i*ell,h*ell,g*ell) of G_0, the 8x8 Gram matrix of B(x,y) = Re(x conj(y)) has exactly 20 of its 64 entries in (1/2)O_K \\setminus O_K.",
+  "expected": 20,
+  "observed": 20,
+  "passed": true,
+  "reference": "Article_004 Lemma 4.4",
+  "version": "v1"
+}
